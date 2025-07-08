@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nombre{
+    font-size: 20px;
+    color: #1e0fea;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#cargo{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.firma{
+    
+    display: flex;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    float: left;
+    
+
+}
+

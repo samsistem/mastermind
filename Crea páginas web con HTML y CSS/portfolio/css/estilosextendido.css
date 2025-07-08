@@ -1,0 +1,44 @@
+body{
+    background-color: #fff;
+    color: #222;
+    font: 200 14px "Poppins", sans-serif;
+}
+
+#datospersonales{
+    background-color: #222;
+    color: white;
+    font-size: 300;
+}
+
+#experiencia{
+    background-color: #222;
+    color: white;
+    font-size: 300;
+}
+
+h1{
+    font-size: 42px;
+}
+
+h2{
+    font-size: 36px;
+}
+
+.seccion{
+    padding: 10px 100px 10px 100px;
+}
+
+#experiencia{
+    border-top: 1
+    px solid #ffc900;
+}
+
+.user{
+    float: left;
+    padding: 10px 10px 10px 10px; 
+}
+.edad{
+    float: center;
+    
+    padding: 10px 10px 10px 100px; 
+}
